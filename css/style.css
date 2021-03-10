@@ -13,6 +13,11 @@ a.h1 {
     color: #fff; /* var(--primary-color); */
 }
 
+h4 {
+  text-align: center;
+}
+
+
 nav.navbar {
     background-color: var(--secondary-color);
 }
